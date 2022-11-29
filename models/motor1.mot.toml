@@ -1,0 +1,7 @@
+# motor_calc.py file format
+#
+#
+[motor]
+#
+poles = 1
+number_of_slots = 2
